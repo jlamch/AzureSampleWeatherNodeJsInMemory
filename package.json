@@ -1,0 +1,19 @@
+{
+  "name": "WheaterApi",
+  "description": "Sample api for Wheater",
+  "version": "0.0.1",
+  "private": true,
+  "license": "MIT",
+  "author": "Billennium",
+  "engines": {
+    "node": ">=6.9.1"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "underscore": "^1.8.3"
+  }
+}
